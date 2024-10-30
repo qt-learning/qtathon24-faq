@@ -48,3 +48,9 @@ It might be that we pushed fixed for other issues to all the repositories, so yo
 to solve the conflicts on your first merge. In case you are running out of time, it's OK
 to keep the Pull Requests open with your solutions, and they will be taken care when reviewing
 your challenge.
+
+### How will the grading system test Test 3? Should I use an array or a vector?
+
+The grading system will receive input as written. Input will not be put in quotation marks.
+This means, you will have to collect multiple arguments and pre-process them. You can use either
+vector or array, problem can be solved either way.
